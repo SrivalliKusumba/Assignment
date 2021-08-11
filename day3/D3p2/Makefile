@@ -1,4 +1,4 @@
-obj-m:= Average.o AddFunction.o
+obj-m:= D3p2_avg.o D3p2_add.o
 
 KERLDIR = /lib/modules/$(shell uname -r)/build
 PWD := $(shell pwd)
@@ -8,7 +8,7 @@ default:
 
 clean:
 	$(MAKE) -C $(KERNELDIR) M=$(PWD) clean
-	rm -rf /lib/modulels/$(shell uname -r)/extra/"
+
 
 install:
 	$(MAKE) -C $(KERNELDIR) M=$(PWD) modules_install
