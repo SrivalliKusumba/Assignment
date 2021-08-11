@@ -1,0 +1,4 @@
+0x72f367e8	add	/home/sriv/rpi4/device_drivers/cross-compile/day2/D2p3/D2p3	EXPORT_SYMBOL	
+0x8deed393	mul	/home/sriv/rpi4/device_drivers/cross-compile/day2/D2p3/D2p3	EXPORT_SYMBOL	
+0xe530bee0	div	/home/sriv/rpi4/device_drivers/cross-compile/day2/D2p3/D2p3	EXPORT_SYMBOL	
+0x9ae26ba9	sub	/home/sriv/rpi4/device_drivers/cross-compile/day2/D2p3/D2p3	EXPORT_SYMBOL	

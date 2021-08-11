@@ -1,0 +1,1 @@
+cmd_/home/sriv/rpi4/device_drivers/cross-compile/hello_module/hello.mod := { echo  /home/sriv/rpi4/device_drivers/cross-compile/hello_module/hello.o;  echo; } > /home/sriv/rpi4/device_drivers/cross-compile/hello_module/hello.mod

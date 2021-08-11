@@ -1,0 +1,1 @@
+cmd_/home/sriv/rpi4/device_drivers/cross-compile/day2/D2p3/Module.symvers := sed 's/ko$$/o/' /home/sriv/rpi4/device_drivers/cross-compile/day2/D2p3/modules.order | scripts/mod/modpost -m -a   -o /home/sriv/rpi4/device_drivers/cross-compile/day2/D2p3/Module.symvers -e -i Module.symvers   -T -

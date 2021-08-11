@@ -1,0 +1,1 @@
+cmd_/home/sriv/rpi4/device_drivers/cross-compile/day3/D3p1.mod := { echo  /home/sriv/rpi4/device_drivers/cross-compile/day3/D3p1.o;  echo; } > /home/sriv/rpi4/device_drivers/cross-compile/day3/D3p1.mod

@@ -1,0 +1,1 @@
+cmd_/home/sriv/rpi4/device_drivers/cross-compile/day2/D2p2.ko := arm-linux-gnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/sriv/rpi4/device_drivers/cross-compile/day2/D2p2.ko /home/sriv/rpi4/device_drivers/cross-compile/day2/D2p2.o /home/sriv/rpi4/device_drivers/cross-compile/day2/D2p2.mod.o;  true

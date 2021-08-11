@@ -1,0 +1,1 @@
+cmd_/home/sriv/rpi4/device_drivers/cross-compile/day3/modules.order := {   echo /home/sriv/rpi4/device_drivers/cross-compile/day3/D3p1_avg.ko;   echo /home/sriv/rpi4/device_drivers/cross-compile/day3/D3p1.ko; :; } | awk '!x[$$0]++' - > /home/sriv/rpi4/device_drivers/cross-compile/day3/modules.order
